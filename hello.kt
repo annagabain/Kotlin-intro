@@ -1,19 +1,19 @@
 fun main() {
   println("Hello, World!")
   println("-----------------")
-  com()
-  ve()
+  comment()
+  verse()
 }
 
 //call com funciton inside the main funciton
 // Code prints "Howdy, partner!" to the terminal.
-fun com() {
+fun comment() {
   println("Howdy, partner!") 
 }
 
 /* I have learned that Kotlin synthax is somehow similar to JavaScript*/
 
-fun ve() {
+fun verse() {
   println("Down by the bay")
   println("Where the watermelons grow,")
   println("Back to my home")
