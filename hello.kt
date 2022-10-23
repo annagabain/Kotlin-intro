@@ -1,5 +1,6 @@
 fun main() {
   println("Hello, World!")
+  com()
 }
 
 
@@ -9,5 +10,4 @@ fun com() {
 
 // Code prints "Howdy, partner!" to the terminal.
 
-/* I have learned that Kotlin is 
-very similar to JavaScript!*/
+/* I have learned that Kotlin synthax somehow similar to JavaScript!*/
