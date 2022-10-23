@@ -3,6 +3,7 @@ fun main() {
   println("-----------------")
   comment()
   verse()
+  rose()
 }
 
 //call com funciton inside the main funciton
@@ -24,3 +25,38 @@ fun verse() {
   println("Down by the bay!")
 }
   
+// Project: ASCII Art
+// Draft
+/*
+       
+      (_)
+   ((-----))
+ ((  ( @ ) ))
+   ((-----))
+      \ /
+       |  
+    <> |  /\\
+       |  \//
+       | /
+       |<>
+       |
+  <><><><><>
+*/
+
+fun rose() {
+  println(      "     (_)"   )
+  println(      "  ((-----))")
+  println(      "((  ( @ ) ))")
+  println(      "  ((-----))")
+  println(      "     \\ /")
+  println(      "      |  ")
+  println(      "   <> |  /\\\\")
+  println(      "      |  \\//")
+  println(      "      |  /")
+  println(      "      |<>")
+  println(      "      |")
+  println(      " <><><><><>")
+  println(      "  <><><><>")
+  println(      "   <><><>")
+  println(      "    <><>")
+}
