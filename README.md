@@ -8,4 +8,5 @@ How to run Kotlin in the Terminal:
   - java -jar hello.jar
 
 
-![run](kotlin_terminal_run.jpg)
+
+<img width="100%" alt="run" src="kotlin_terminal_run.jpg">
